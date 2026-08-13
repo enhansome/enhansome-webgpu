@@ -1,0 +1,685 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Websites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LearningWebGPU 教程 (Chinese)",
+          "description": "By @hjlld.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-06T03:06:01Z",
+            "owner": "hjlld",
+            "repo": "LearningWebGPU",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build a compute rasterizer in WebGPU",
+          "description": "How to build a complete rasterizer using compute shaders, by Omar Shehata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-23T14:13:07Z",
+            "owner": "OmarShehata",
+            "repo": "webgpu-compute-rasterizer",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From 0 to glTF with WebGPU: Series",
+          "description": "(repository) - A tutorial to create a glTF model viewer, by Will Usher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-04T15:14:52Z",
+            "owner": "Twinklebear",
+            "repo": "webgpu-0-to-gltf",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wgpu",
+          "description": "Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:59:17Z",
+            "owner": "gfx-rs",
+            "repo": "wgpu",
+            "stars": 17774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sokol",
+          "description": "Simple STB-style cross-platform libraries for C and C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T17:42:16Z",
+            "owner": "floooh",
+            "repo": "sokol",
+            "stars": 10194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChartGPU",
+          "description": "High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T11:23:34Z",
+            "owner": "ChartGPU",
+            "repo": "ChartGPU",
+            "stars": 3183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native WebGPU",
+          "description": "React Native implementation of WebGPU using Dawn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T05:27:26Z",
+            "owner": "wcandillon",
+            "repo": "react-native-webgpu",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webgpu-headers",
+          "description": "C/C++ headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T20:01:57Z",
+            "owner": "webgpu-native",
+            "repo": "webgpu-headers",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU-C++",
+          "description": "A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-03T15:45:17Z",
+            "owner": "eliemichel",
+            "repo": "WebGPU-Cpp",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedGPU",
+          "description": "JavaScript WbeGPU library, by @redcamel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:56:17Z",
+            "owner": "redcamel",
+            "repo": "RedGPU",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wgsl_reflect",
+          "description": "A WebGPU Shading Language parser and reflection library for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T00:57:53Z",
+            "owner": "brendan-duncan",
+            "repo": "wgsl_reflect",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WESL",
+          "description": "WGSL extensions for , , and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T09:22:25Z",
+            "owner": "webgpu-tools",
+            "repo": "wesl-spec",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU .NET",
+          "description": ".NET bindings, built on top of wgpu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T23:04:19Z",
+            "owner": "EvergineTeam",
+            "repo": "WebGPU.NET",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebRTX",
+          "description": "WebGPU Ray Tracing Extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-08T00:05:08Z",
+            "owner": "codedhead",
+            "repo": "webrtx",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEngine",
+          "description": "A basic rendering engine based on WebGPU, by junwei.gu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-22T08:10:51Z",
+            "owner": "GEngine-js",
+            "repo": "GEngine",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedCube",
+          "description": "glTF viewer based on a WebGPU backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T10:41:06Z",
+            "owner": "Reon90",
+            "repo": "redcube",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arche Graphics",
+          "description": "WebGPU Graphics Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-09-21T03:50:10Z",
+            "owner": "yangfengzzz",
+            "repo": "Arche.js",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hwoa-rang-gpu",
+          "description": "Micro WebGPU rendering & compute library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-17T13:31:50Z",
+            "owner": "gnikoloff",
+            "repo": "hwoa-rang-gpu",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thimbleberry",
+          "description": "Reusuable WebGPU shaders and support functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-16T19:09:13Z",
+            "owner": "mighdoll",
+            "repo": "thimbleberry",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGpGpu.ts",
+          "description": "A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-10T19:48:29Z",
+            "owner": "eddow",
+            "repo": "webgpgpu",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWGPU",
+          "description": "A Simple WebGPU Game Engine.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Right now, demos work best on Chrome/Edge.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Three.js WebGPU examples",
+          "description": "A collection of examples from three.js using the WebGPU renderer - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:21:49Z",
+            "owner": "mrdoob",
+            "repo": "three.js",
+            "stars": 114477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebLLM",
+          "description": "LLM inference engine, by CMU, University of Washington, OctoML, et al - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T10:46:09Z",
+            "owner": "mlc-ai",
+            "repo": "web-llm",
+            "stars": 18558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wgpu examples",
+          "description": "Official list of examples from the wgpu library - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:59:17Z",
+            "owner": "gfx-rs",
+            "repo": "wgpu",
+            "stars": 17774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Stable Diffusion",
+          "description": "An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-12T13:29:56Z",
+            "owner": "mlc-ai",
+            "repo": "web-stable-diffusion",
+            "stars": 3720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Samples",
+          "description": "A set of samples and demos demonstrating the use of the WebGPU API - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T04:31:50Z",
+            "owner": "webgpu",
+            "repo": "webgpu-samples",
+            "stars": 2156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dawn RT",
+          "description": "A fork of dawn with Ray tracing extensions, by Felix Maier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-09-15T08:27:22Z",
+            "owner": "maierfelix",
+            "repo": "dawn-ray-tracing",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Clustered Shading",
+          "description": "By Brandon Jones - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T19:32:37Z",
+            "owner": "toji",
+            "repo": "webgpu-clustered-shading",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online WGSL Editor",
+          "description": "By Takahiro - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-08T22:06:27Z",
+            "owner": "takahirox",
+            "repo": "online-wgsl-editor",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spookyball",
+          "description": "A Halloween-themed, open source Breakout clone, by Brandon Jones - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T18:05:59Z",
+            "owner": "toji",
+            "repo": "spookyball",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU 2D Fluid Simulation",
+          "description": "An implementation of \"Real-Time Fluid Dynamics for Games\" paper, by kishimisu - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-28T20:37:37Z",
+            "owner": "kishimisu",
+            "repo": "WebGPU-Fluid-Simulation",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shader Graph WGSL",
+          "description": "A node based shader editor, by deepkolos - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-31T03:49:01Z",
+            "owner": "deepkolos",
+            "repo": "shader-graph-wgsl",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Metaballs",
+          "description": "By Brandon Jones - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T22:06:15Z",
+            "owner": "toji",
+            "repo": "webgpu-metaballs",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU first-person exploration of the Sponza Palace",
+          "description": "Scene render comparison between WebGL, WebGL 2.0 and WebGPU, by Brandon Jones - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-05T18:43:57Z",
+            "owner": "toji",
+            "repo": "webgpu-test",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Examples",
+          "description": "A few examples of rendering algorithms implemented in WebGPU, by Tarek Sherif - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-05T04:02:56Z",
+            "owner": "tsherif",
+            "repo": "webgpu-examples",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU-Lab",
+          "description": "Demos and experiments, focused on compute shaders, by Sebastian Macke - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T06:53:28Z",
+            "owner": "s-macke",
+            "repo": "WebGPU-Lab",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Path Tracing",
+          "description": "A path tracer powered by WebGPU compute shaders, by Fermin Lozano - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-30T22:09:51Z",
+            "owner": "ferminLR",
+            "repo": "webgpu-path-tracing",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU-Playground",
+          "description": "A playground to experiment with WebGPU, by @06wj - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-03T03:39:25Z",
+            "owner": "06wj",
+            "repo": "WebGPU-Playground",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Particles",
+          "description": "Calculate and render particles, by Daniel Toplak - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T00:38:10Z",
+            "owner": "hsimpson",
+            "repo": "webgpu-particles",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thimbleberry Image Transform Demo",
+          "description": "An Image processing app built using Thimbleberry, by mighdoll - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-16T19:09:13Z",
+            "owner": "mighdoll",
+            "repo": "thimbleberry",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Memory Model Testing",
+          "description": "Memory models testing suite, by Reese Levine et al., UC Santa Cruz - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WGSL",
+            "last_commit": "2026-06-30T21:54:12Z",
+            "owner": "reeselevine",
+            "repo": "webgpu-litmus",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU real-time ray tracer",
+          "description": "A real-time ray tracer implementing ReSTIR algorithm - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WGSL",
+            "last_commit": "2024-06-17T04:04:16Z",
+            "owner": "C-none",
+            "repo": "Web-RTRT",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wgpu-load-test",
+          "description": "A wgpu stress test, by Alexis Andre.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-06-23T04:56:32Z",
+            "owner": "MacTuitui",
+            "repo": "wgpu-load-test",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An online WebGPU calculator",
+          "description": "An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-02T11:51:10Z",
+            "owner": "rivi-lang",
+            "repo": "laskin.live",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU External Texture Test",
+          "description": "By Brandon Jones - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-11T16:37:06Z",
+            "owner": "toji",
+            "repo": "webgpu-external-test",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPU Live Demo Editor",
+          "description": "A collection of WebGPU examples by Hepp Maccoy - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T10:45:16Z",
+            "owner": "hepp",
+            "repo": "webgpu-examples",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marching Cubes WebGPU",
+          "description": "Marching cubes implementation, by Conor O'Malley - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-08T04:59:56Z",
+            "owner": "conorpo",
+            "repo": "marching-cubes-webgpu",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Demos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:18.785Z",
+    "original_repository": "mikbry/awesome-webgpu",
+    "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
+    "enhanced_repository": "enhansome/enhansome-webgpu",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebGPU with stars"
+  }
+}
