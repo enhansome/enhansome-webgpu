@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T12:13:31Z",
+            "last_commit": "2026-08-18T14:55:57Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17806
+            "stars": 17817
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T14:22:47Z",
+            "last_commit": "2026-08-17T17:37:47Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10212
+            "stars": 10218
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-03T11:23:34Z",
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3205
+            "stars": 3207
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-06T05:27:26Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1207
+            "stars": 1209
           }
         },
         {
@@ -148,10 +148,24 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:29:26Z",
+            "last_commit": "2026-08-18T07:39:48Z",
             "owner": "redcamel",
             "repo": "RedGPU",
             "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WESL",
+          "description": "WGSL extensions for , , and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T09:22:25Z",
+            "owner": "webgpu-tools",
+            "repo": "wesl-spec",
+            "stars": 296
           }
         },
         {
@@ -170,20 +184,6 @@
         },
         {
           "node_type": "item",
-          "title": "WESL",
-          "description": "WGSL extensions for , , and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-30T09:22:25Z",
-            "owner": "webgpu-tools",
-            "repo": "wesl-spec",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
           "title": "WebGPU .NET",
           "description": ".NET bindings, built on top of wgpu.",
           "children": [],
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-07T23:04:19Z",
             "owner": "EvergineTeam",
             "repo": "WebGPU.NET",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -314,10 +314,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T10:36:53Z",
+            "last_commit": "2026-08-18T12:58:32Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114549
+            "stars": 114588
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18564
+            "stars": 18569
           }
         },
         {
@@ -342,10 +342,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T12:13:31Z",
+            "last_commit": "2026-08-18T14:55:57Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17806
+            "stars": 17817
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2020-09-15T08:27:22Z",
             "owner": "maierfelix",
             "repo": "dawn-ray-tracing",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:56:45.904Z",
+    "last_updated": "2026-08-18T16:02:18.119Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
     "enhanced_repository": "enhansome/enhansome-webgpu",
