@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230249283,
             "language": "TypeScript",
             "last_commit": "2023-06-06T03:06:01Z",
             "owner": "hjlld",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432602738,
             "language": "JavaScript",
             "last_commit": "2023-03-23T14:13:07Z",
             "owner": "OmarShehata",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627175073,
             "language": "TypeScript",
             "last_commit": "2024-06-04T15:14:52Z",
             "owner": "Twinklebear",
@@ -54,7 +52,7 @@
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:55:57Z",
+            "last_commit": "2026-08-19T12:26:55Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17817
+            "stars": 17822
           }
         },
         {
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-17T17:37:47Z",
+            "last_commit": "2026-08-18T17:47:32Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10218
+            "stars": 10219
           }
         },
         {
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136039994,
             "language": "TypeScript",
             "last_commit": "2026-08-03T11:23:34Z",
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3207
+            "stars": 3208
           }
         },
         {
@@ -105,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816390466,
             "language": "TypeScript",
             "last_commit": "2026-08-06T05:27:26Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1209
+            "stars": 1212
           }
         },
         {
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197025847,
             "language": "C++",
             "last_commit": "2026-07-29T20:01:57Z",
             "owner": "webgpu-native",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579792306,
             "language": "C++",
             "last_commit": "2025-09-03T15:45:17Z",
             "owner": "eliemichel",
@@ -147,8 +151,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223094122,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:39:48Z",
+            "last_commit": "2026-08-19T08:12:36Z",
             "owner": "redcamel",
             "repo": "RedGPU",
             "stars": 382
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797969170,
             "language": null,
             "last_commit": "2026-07-30T09:22:25Z",
             "owner": "webgpu-tools",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427828696,
             "language": "TypeScript",
             "last_commit": "2026-08-16T03:13:49Z",
             "owner": "brendan-duncan",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276299648,
             "language": "C#",
             "last_commit": "2026-08-07T23:04:19Z",
             "owner": "EvergineTeam",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624788386,
             "language": "Rust",
             "last_commit": "2023-10-08T00:05:08Z",
             "owner": "codedhead",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 551830160,
             "language": "JavaScript",
             "last_commit": "2026-05-22T08:10:51Z",
             "owner": "GEngine-js",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91961446,
             "language": "TypeScript",
             "last_commit": "2026-07-30T10:41:06Z",
             "owner": "Reon90",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 458754035,
             "language": "TypeScript",
             "last_commit": "2022-09-21T03:50:10Z",
             "owner": "yangfengzzz",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408424597,
             "language": "TypeScript",
             "last_commit": "2022-04-17T13:31:50Z",
             "owner": "gnikoloff",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616252711,
             "language": "TypeScript",
             "last_commit": "2026-08-13T04:31:03Z",
             "owner": "mighdoll",
@@ -287,21 +301,52 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935239089,
             "language": "TypeScript",
             "last_commit": "2026-04-10T19:48:29Z",
             "owner": "eddow",
             "repo": "webgpgpu",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "SWGPU",
-          "description": "A Simple WebGPU Game Engine.",
-          "children": []
         }
       ],
       "title": "Libraries"
+    },
+    {
+      "description": "These have not been updated for a while:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webgpu-devtools",
+          "description": "Web browser extention.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595406657,
+            "language": "JavaScript",
+            "last_commit": "2023-05-04T05:26:37Z",
+            "owner": "takahirox",
+            "repo": "webgpu-devtools",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webgpu-debugger",
+          "description": "Early stage debugger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 552964869,
+            "language": "JavaScript",
+            "last_commit": "2024-01-20T14:40:53Z",
+            "owner": "webgpu",
+            "repo": "webgpu-debugger",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Debuggers and Profilers"
     },
     {
       "description": "Right now, demos work best on Chrome/Edge.",
@@ -313,11 +358,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T12:58:32Z",
+            "last_commit": "2026-08-19T11:27:02Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114588
+            "stars": 114609
           }
         },
         {
@@ -327,11 +373,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627561173,
             "language": "TypeScript",
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18569
+            "stars": 18575
           }
         },
         {
@@ -341,11 +388,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:55:57Z",
+            "last_commit": "2026-08-19T12:26:55Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17817
+            "stars": 17822
           }
         },
         {
@@ -355,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610043832,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-12T13:29:56Z",
             "owner": "mlc-ai",
@@ -369,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177645227,
             "language": "TypeScript",
             "last_commit": "2026-08-05T04:31:50Z",
             "owner": "webgpu",
@@ -383,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226672048,
             "language": "C++",
             "last_commit": "2020-09-15T08:27:22Z",
             "owner": "maierfelix",
@@ -397,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322768821,
             "language": "JavaScript",
             "last_commit": "2023-01-27T19:32:37Z",
             "owner": "toji",
@@ -411,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412650862,
             "language": "JavaScript",
             "last_commit": "2023-04-08T22:06:27Z",
             "owner": "takahirox",
@@ -425,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416840072,
             "language": "JavaScript",
             "last_commit": "2026-06-09T18:05:59Z",
             "owner": "toji",
@@ -439,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540979585,
             "language": "JavaScript",
             "last_commit": "2023-08-28T20:37:37Z",
             "owner": "kishimisu",
@@ -453,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632744744,
             "language": "TypeScript",
             "last_commit": "2025-10-31T03:49:01Z",
             "owner": "deepkolos",
@@ -467,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362186287,
             "language": "JavaScript",
             "last_commit": "2026-05-13T22:06:15Z",
             "owner": "toji",
@@ -481,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240610813,
             "language": "JavaScript",
             "last_commit": "2026-05-05T18:43:57Z",
             "owner": "toji",
@@ -495,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230921099,
             "language": "JavaScript",
             "last_commit": "2026-03-05T04:02:56Z",
             "owner": "tsherif",
@@ -509,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408557792,
             "language": "TypeScript",
             "last_commit": "2026-04-07T06:53:28Z",
             "owner": "s-macke",
@@ -523,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678826437,
             "language": "JavaScript",
             "last_commit": "2025-09-30T22:09:51Z",
             "owner": "ferminLR",
@@ -537,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231502784,
             "language": "JavaScript",
             "last_commit": "2023-02-03T03:39:25Z",
             "owner": "06wj",
@@ -551,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270453646,
             "language": "TypeScript",
             "last_commit": "2026-06-30T00:38:10Z",
             "owner": "hsimpson",
@@ -565,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616252711,
             "language": "TypeScript",
             "last_commit": "2026-08-13T04:31:03Z",
             "owner": "mighdoll",
@@ -579,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379673514,
             "language": "WGSL",
             "last_commit": "2026-06-30T21:54:12Z",
             "owner": "reeselevine",
@@ -593,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 769484476,
             "language": "WGSL",
             "last_commit": "2024-06-17T04:04:16Z",
             "owner": "C-none",
@@ -607,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273381568,
             "language": "Rust",
             "last_commit": "2020-06-23T04:56:32Z",
             "owner": "MacTuitui",
@@ -621,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265816640,
             "language": "HTML",
             "last_commit": "2020-08-02T11:51:10Z",
             "owner": "rivi-lang",
@@ -635,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375901088,
             "language": "JavaScript",
             "last_commit": "2021-06-11T16:37:06Z",
             "owner": "toji",
@@ -649,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589072415,
             "language": null,
             "last_commit": "2024-06-06T10:45:16Z",
             "owner": "hepp",
@@ -663,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710066046,
             "language": "JavaScript",
             "last_commit": "2024-02-08T04:59:56Z",
             "owner": "conorpo",
@@ -675,8 +746,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:02:18.119Z",
+    "last_updated": "2026-08-19T12:59:12.589Z",
     "original_repository": "mikbry/awesome-webgpu",
+    "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
     "enhanced_repository": "enhansome/enhansome-webgpu",
     "enhanced_repository_description": null,
