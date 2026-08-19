@@ -63,7 +63,7 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:26:55Z",
+            "last_commit": "2026-08-19T15:23:21Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
             "stars": 17822
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:27:02Z",
+            "last_commit": "2026-08-19T15:48:27Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114609
+            "stars": 114614
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18575
+            "stars": 18577
           }
         },
         {
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:26:55Z",
+            "last_commit": "2026-08-19T15:23:21Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
             "stars": 17822
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:12.589Z",
+    "last_updated": "2026-08-19T16:02:28.356Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
