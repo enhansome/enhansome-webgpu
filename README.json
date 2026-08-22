@@ -63,10 +63,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:51:13Z",
+            "last_commit": "2026-08-22T03:38:37Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17829
+            "stars": 17837
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-20T17:05:46Z",
+            "last_commit": "2026-08-21T17:22:08Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10225
+            "stars": 10228
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 797969170,
             "language": null,
-            "last_commit": "2026-08-19T17:51:08Z",
+            "last_commit": "2026-08-22T05:54:56Z",
             "owner": "webgpu-tools",
             "repo": "wesl-spec",
             "stars": 296
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T15:19:01Z",
+            "last_commit": "2026-08-22T13:52:17Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114655
+            "stars": 114684
           }
         },
         {
@@ -390,10 +390,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:51:13Z",
+            "last_commit": "2026-08-22T03:38:37Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17829
+            "stars": 17837
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:03:48.636Z",
+    "last_updated": "2026-08-22T15:56:25.987Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
