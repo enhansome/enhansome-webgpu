@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T03:38:37Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17837
+            "stars": 17842
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-21T17:22:08Z",
+            "last_commit": "2026-08-23T11:51:02Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10228
+            "stars": 10231
           }
         },
         {
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T13:52:17Z",
+            "last_commit": "2026-08-23T11:38:59Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114684
+            "stars": 114707
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18585
+            "stars": 18586
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-22T03:38:37Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17837
+            "stars": 17842
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:56:25.987Z",
+    "last_updated": "2026-08-23T15:57:25.581Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
