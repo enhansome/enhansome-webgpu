@@ -112,10 +112,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:06:28Z",
+            "last_commit": "2026-08-24T14:58:42Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17853
+            "stars": 17854
           }
         },
         {
@@ -127,7 +127,7 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-23T17:34:38Z",
+            "last_commit": "2026-08-24T14:23:57Z",
             "owner": "floooh",
             "repo": "sokol",
             "stars": 10235
@@ -424,10 +424,10 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:02:03Z",
+            "last_commit": "2026-08-24T14:22:37Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114746
+            "stars": 114751
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18587
+            "stars": 18589
           }
         },
         {
@@ -454,10 +454,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:06:28Z",
+            "last_commit": "2026-08-24T14:58:42Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17853
+            "stars": 17854
           }
         },
         {
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:21.133Z",
+    "last_updated": "2026-08-24T16:15:29.429Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
