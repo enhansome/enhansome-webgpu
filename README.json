@@ -4,6 +4,55 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPUWeb",
+              "description": "Official GitHub repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81512059,
+                "language": "Bikeshed",
+                "last_commit": "2026-08-20T01:45:33Z",
+                "owner": "gpuweb",
+                "repo": "gpuweb",
+                "stars": 5458
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official websites"
+        }
+      ],
+      "title": "Websites"
+    },
+    {
+      "description": "This is an experimental technology",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Implementation status",
+          "description": "Official W3C Group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81512059,
+            "language": "Bikeshed",
+            "last_commit": "2026-08-20T01:45:33Z",
+            "owner": "gpuweb",
+            "repo": "gpuweb",
+            "stars": 5458
+          }
+        }
+      ],
+      "title": "Browser support"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "LearningWebGPU 教程 (Chinese)",
           "description": "By @hjlld.",
@@ -63,10 +112,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-22T03:38:37Z",
+            "last_commit": "2026-08-24T14:06:28Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17842
+            "stars": 17853
           }
         },
         {
@@ -78,10 +127,10 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-23T11:51:02Z",
+            "last_commit": "2026-08-23T17:34:38Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10231
+            "stars": 10235
           }
         },
         {
@@ -93,10 +142,10 @@
             "archived": false,
             "id": 1136039994,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T11:23:34Z",
+            "last_commit": "2026-08-24T12:06:47Z",
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3210
+            "stars": 3211
           }
         },
         {
@@ -111,7 +160,7 @@
             "last_commit": "2026-08-21T15:31:07Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1217
+            "stars": 1218
           }
         },
         {
@@ -126,7 +175,7 @@
             "last_commit": "2026-07-29T20:01:57Z",
             "owner": "webgpu-native",
             "repo": "webgpu-headers",
-            "stars": 581
+            "stars": 580
           }
         },
         {
@@ -153,7 +202,7 @@
             "archived": false,
             "id": 223094122,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:25:46Z",
+            "last_commit": "2026-08-24T04:44:01Z",
             "owner": "redcamel",
             "repo": "RedGPU",
             "stars": 382
@@ -171,7 +220,7 @@
             "last_commit": "2026-08-22T05:54:56Z",
             "owner": "webgpu-tools",
             "repo": "wesl-spec",
-            "stars": 296
+            "stars": 297
           }
         },
         {
@@ -317,6 +366,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "webgpu-inspector",
+          "description": "Inspection debugger for WebGpu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621883685,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T16:31:03Z",
+            "owner": "brendan-duncan",
+            "repo": "webgpu_inspector",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
           "title": "webgpu-devtools",
           "description": "Web browser extention.",
           "children": [],
@@ -360,10 +424,10 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T11:38:59Z",
+            "last_commit": "2026-08-24T14:02:03Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114707
+            "stars": 114746
           }
         },
         {
@@ -378,7 +442,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18586
+            "stars": 18587
           }
         },
         {
@@ -390,10 +454,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-22T03:38:37Z",
+            "last_commit": "2026-08-24T14:06:28Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17842
+            "stars": 17853
           }
         },
         {
@@ -746,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:57:25.581Z",
+    "last_updated": "2026-08-24T14:08:21.133Z",
     "original_repository": "mikbry/awesome-webgpu",
     "original_repository_id": 240231984,
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
