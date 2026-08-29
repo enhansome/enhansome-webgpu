@@ -166,10 +166,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:24:11Z",
-            "open_issues": 1253,
+            "open_issues": 1255,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17887,
+            "stars": 17890,
             "topics": [
               "d3d12",
               "gpu",
@@ -195,11 +195,11 @@
             "id": 97212490,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-08-28T16:33:59Z",
+            "last_commit": "2026-08-29T13:47:12Z",
             "open_issues": 139,
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10246,
+            "stars": 10248,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -322,7 +322,7 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:03:51Z",
+            "last_commit": "2026-08-29T08:20:07Z",
             "open_issues": 12,
             "owner": "redcamel",
             "repo": "RedGPU",
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "brendan-duncan",
             "repo": "wgsl_reflect",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "javascript",
               "webgpu",
@@ -411,7 +411,7 @@
             "open_issues": 0,
             "owner": "EvergineTeam",
             "repo": "WebGPU.NET",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "csharp",
               "dotnet",
@@ -687,11 +687,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:55:40Z",
-            "open_issues": 380,
+            "last_commit": "2026-08-29T10:57:01Z",
+            "open_issues": 379,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114904,
+            "stars": 114919,
             "topics": [
               "3d",
               "augmented-reality",
@@ -725,7 +725,7 @@
             "open_issues": 157,
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18611,
+            "stars": 18612,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -751,10 +751,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:24:11Z",
-            "open_issues": 1253,
+            "open_issues": 1255,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17887,
+            "stars": 17890,
             "topics": [
               "d3d12",
               "gpu",
@@ -812,7 +812,7 @@
             "open_issues": 35,
             "owner": "webgpu",
             "repo": "webgpu-samples",
-            "stars": 2160,
+            "stars": 2162,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:00.911Z",
+    "last_updated": "2026-08-29T18:51:51.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
