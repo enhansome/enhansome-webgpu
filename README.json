@@ -18,7 +18,8 @@
                 "owner": "gpuweb",
                 "repo": "gpuweb",
                 "stars": 5461
-              }
+              },
+              "first_seen": "2026-08-29T00:06:48.152Z"
             }
           ],
           "description": null,
@@ -44,7 +45,8 @@
             "owner": "gpuweb",
             "repo": "gpuweb",
             "stars": 5461
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         }
       ],
       "title": "Browser support"
@@ -65,7 +67,8 @@
             "owner": "hjlld",
             "repo": "LearningWebGPU",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -80,7 +83,8 @@
             "owner": "OmarShehata",
             "repo": "webgpu-compute-rasterizer",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -95,7 +99,8 @@
             "owner": "Twinklebear",
             "repo": "webgpu-0-to-gltf",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         }
       ],
       "title": "Tutorials"
@@ -112,11 +117,12 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:17:01Z",
+            "last_commit": "2026-08-28T21:34:46Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17879
-          }
+            "stars": 17885
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -127,11 +133,12 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-27T17:29:53Z",
+            "last_commit": "2026-08-28T16:33:59Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10243
-          }
+            "stars": 10245
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -145,8 +152,9 @@
             "last_commit": "2026-08-24T12:06:47Z",
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3213
-          }
+            "stars": 3214
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -160,8 +168,9 @@
             "last_commit": "2026-08-25T10:45:41Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1221
-          }
+            "stars": 1222
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -175,8 +184,9 @@
             "last_commit": "2026-08-26T20:31:48Z",
             "owner": "webgpu-native",
             "repo": "webgpu-headers",
-            "stars": 581
-          }
+            "stars": 582
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -191,7 +201,8 @@
             "owner": "eliemichel",
             "repo": "WebGPU-Cpp",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -202,11 +213,12 @@
             "archived": false,
             "id": 223094122,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:11:44Z",
+            "last_commit": "2026-08-28T08:25:34Z",
             "owner": "redcamel",
             "repo": "RedGPU",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -221,7 +233,8 @@
             "owner": "webgpu-tools",
             "repo": "wesl-spec",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "brendan-duncan",
             "repo": "wgsl_reflect",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -251,7 +265,8 @@
             "owner": "EvergineTeam",
             "repo": "WebGPU.NET",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -266,7 +281,8 @@
             "owner": "codedhead",
             "repo": "webrtx",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -281,7 +297,8 @@
             "owner": "GEngine-js",
             "repo": "GEngine",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -296,7 +313,8 @@
             "owner": "Reon90",
             "repo": "redcube",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -311,7 +329,8 @@
             "owner": "yangfengzzz",
             "repo": "Arche.js",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -326,7 +345,8 @@
             "owner": "gnikoloff",
             "repo": "hwoa-rang-gpu",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -341,7 +361,8 @@
             "owner": "mighdoll",
             "repo": "thimbleberry",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -356,7 +377,8 @@
             "owner": "eddow",
             "repo": "webgpgpu",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         }
       ],
       "title": "Libraries"
@@ -377,7 +399,8 @@
             "owner": "brendan-duncan",
             "repo": "webgpu_inspector",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -392,7 +415,8 @@
             "owner": "takahirox",
             "repo": "webgpu-devtools",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -407,7 +431,8 @@
             "owner": "webgpu",
             "repo": "webgpu-debugger",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         }
       ],
       "title": "Debuggers and Profilers"
@@ -424,11 +449,12 @@
             "archived": false,
             "id": 576201,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T17:07:02Z",
+            "last_commit": "2026-08-28T23:10:10Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114855
-          }
+            "stars": 114897
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -442,8 +468,9 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18608
-          }
+            "stars": 18611
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -454,11 +481,12 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:17:01Z",
+            "last_commit": "2026-08-28T21:34:46Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17879
-          }
+            "stars": 17885
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -473,7 +501,8 @@
             "owner": "mlc-ai",
             "repo": "web-stable-diffusion",
             "stars": 3722
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -487,8 +516,9 @@
             "last_commit": "2026-08-05T04:31:50Z",
             "owner": "webgpu",
             "repo": "webgpu-samples",
-            "stars": 2159
-          }
+            "stars": 2160
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -503,7 +533,8 @@
             "owner": "maierfelix",
             "repo": "dawn-ray-tracing",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -518,7 +549,8 @@
             "owner": "toji",
             "repo": "webgpu-clustered-shading",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -533,7 +565,8 @@
             "owner": "takahirox",
             "repo": "online-wgsl-editor",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -548,7 +581,8 @@
             "owner": "toji",
             "repo": "spookyball",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -563,7 +597,8 @@
             "owner": "kishimisu",
             "repo": "WebGPU-Fluid-Simulation",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -578,7 +613,8 @@
             "owner": "deepkolos",
             "repo": "shader-graph-wgsl",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -593,7 +629,8 @@
             "owner": "toji",
             "repo": "webgpu-metaballs",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -608,7 +645,8 @@
             "owner": "toji",
             "repo": "webgpu-test",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -623,7 +661,8 @@
             "owner": "tsherif",
             "repo": "webgpu-examples",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -638,7 +677,8 @@
             "owner": "s-macke",
             "repo": "WebGPU-Lab",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -653,7 +693,8 @@
             "owner": "ferminLR",
             "repo": "webgpu-path-tracing",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -668,7 +709,8 @@
             "owner": "06wj",
             "repo": "WebGPU-Playground",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -683,7 +725,8 @@
             "owner": "hsimpson",
             "repo": "webgpu-particles",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -698,7 +741,8 @@
             "owner": "mighdoll",
             "repo": "thimbleberry",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -713,7 +757,8 @@
             "owner": "reeselevine",
             "repo": "webgpu-litmus",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -728,7 +773,8 @@
             "owner": "C-none",
             "repo": "Web-RTRT",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -743,7 +789,8 @@
             "owner": "MacTuitui",
             "repo": "wgpu-load-test",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -758,7 +805,8 @@
             "owner": "rivi-lang",
             "repo": "laskin.live",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -773,7 +821,8 @@
             "owner": "toji",
             "repo": "webgpu-external-test",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -788,7 +837,8 @@
             "owner": "hepp",
             "repo": "webgpu-examples",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
@@ -803,14 +853,15 @@
             "owner": "conorpo",
             "repo": "marching-cubes-webgpu",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
         }
       ],
       "title": "Demos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:36:01.290Z",
+    "last_updated": "2026-08-29T00:06:48.152Z",
     "original_repository_info": {
       "archived": false,
       "id": 240231984,
@@ -818,7 +869,7 @@
       "last_commit": "2026-01-21T09:09:35Z",
       "owner": "mikbry",
       "repo": "awesome-webgpu",
-      "stars": 1967
+      "stars": 1968
     },
     "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
     "enhanced_repository": "enhansome/enhansome-webgpu",
