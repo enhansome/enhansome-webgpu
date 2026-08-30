@@ -128,12 +128,12 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ## Libraries
 
-* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,890 | 🐛 1,255 | 🌐 Rust | 📅 2026-08-29 - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
-* [sokol](https://github.com/floooh/sokol/) ⭐ 10,248 | 🐛 139 | 🌐 C | 📅 2026-08-29 - Simple STB-style cross-platform libraries for C and C++.
-* [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,214 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
-* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,222 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25 - React Native implementation of WebGPU using Dawn.
+* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,893 | 🐛 1,251 | 🌐 Rust | 📅 2026-08-30 - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
+* [sokol](https://github.com/floooh/sokol/) ⭐ 10,252 | 🐛 140 | 🌐 C | 📅 2026-08-30 - Simple STB-style cross-platform libraries for C and C++.
+* [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,213 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,223 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-30 - React Native implementation of WebGPU using Dawn.
 * [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) ⭐ 582 | 🐛 51 | 🌐 C++ | 📅 2026-08-26 - C/C++ headers.
-* [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) ⭐ 503 | 🐛 13 | 🌐 C++ | 📅 2025-09-03 - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
+* [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) ⭐ 505 | 🐛 13 | 🌐 C++ | 📅 2025-09-03 - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
 * [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 383 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-29 - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
 * [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) ⭐ 301 | 🐛 98 | 📅 2026-08-22 - WGSL extensions for `import`, `@if`, and more.
 * [wgsl\_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐ 293 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-16 - A WebGPU Shading Language parser and reflection library for JavaScript.
@@ -175,10 +175,10 @@ These have not been updated for a while:
 
 Right now, demos work best on Chrome/Edge.
 
-* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 114,919 | 🐛 379 | 🌐 JavaScript | 📅 2026-08-29
-* [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm) ⭐ 18,612 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-04
-* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 17,890 | 🐛 1,255 | 🌐 Rust | 📅 2026-08-29
-* [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - [Repository](https://github.com/mlc-ai/web-stable-diffusion) ⭐ 3,722 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-03-12
+* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 114,940 | 🐛 377 | 🌐 JavaScript | 📅 2026-08-30
+* [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm) ⭐ 18,613 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-04
+* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 17,893 | 🐛 1,251 | 🌐 Rust | 📅 2026-08-30
+* [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - [Repository](https://github.com/mlc-ai/web-stable-diffusion) ⭐ 3,723 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-03-12
 * [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples) ⭐ 2,162 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-05
 * [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) ⭐ 302 | 🐛 3 | 🌐 C++ | 📅 2020-09-15 - A fork of dawn with Ray tracing extensions, by Felix Maier.
 * [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-clustered-shading) ⭐ 212 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-27
@@ -244,4 +244,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
