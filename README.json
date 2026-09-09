@@ -41,12 +41,12 @@
       "title": "Websites"
     },
     {
-      "description": "This is an experimental technology",
+      "description": "Availability depends on the browser version, operating system, GPU, and driver.",
       "items": [
         {
           "node_type": "item",
           "title": "Implementation status",
-          "description": "Official W3C Group.",
+          "description": "Platform support and rollout details maintained by GPUWeb.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -79,7 +79,7 @@
         {
           "node_type": "item",
           "title": "LearningWebGPU 教程 (Chinese)",
-          "description": "By @hjlld.",
+          "description": "Tutorials using WGSL; the older GLSL-to-SPIR-V branch is deprecated.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
         {
           "node_type": "item",
           "title": "wgpu",
-          "description": "Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.",
+          "description": "Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,11 +165,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T11:02:37Z",
-            "open_issues": 1255,
+            "last_commit": "2026-09-09T16:17:26Z",
+            "open_issues": 1258,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17960,
+            "stars": 17966,
             "topics": [
               "d3d12",
               "gpu",
@@ -195,19 +195,40 @@
             "id": 97212490,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-09-08T07:00:34Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-09T18:04:58Z",
+            "open_issues": 131,
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10274,
+            "stars": 10276,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
         },
         {
           "node_type": "item",
+          "title": "Vello",
+          "description": "Experimental Rust 2D vector renderer using wgpu and GPU compute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A GPU compute-centric 2D renderer.",
+            "homepage": "http://linebender.org/vello/",
+            "id": 255966443,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-09T13:41:31Z",
+            "open_issues": 205,
+            "owner": "linebender",
+            "repo": "vello",
+            "stars": 4323,
+            "topics": []
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
+        },
+        {
+          "node_type": "item",
           "title": "ChartGPU",
-          "description": "High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.",
+          "description": "Interactive charting library using WebGPU for rendering.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -217,10 +238,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-24T12:06:47Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3221,
+            "stars": 3222,
             "topics": [
               "awesome-list",
               "candlestick-chart",
@@ -245,6 +266,27 @@
         },
         {
           "node_type": "item",
+          "title": "wgpu-native",
+          "description": "Native C interface to the Rust wgpu implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native WebGPU implementation based on wgpu-core",
+            "homepage": null,
+            "id": 256375428,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-08T10:56:37Z",
+            "open_issues": 69,
+            "owner": "gfx-rs",
+            "repo": "wgpu-native",
+            "stars": 1372,
+            "topics": []
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
+        },
+        {
+          "node_type": "item",
           "title": "React Native WebGPU",
           "description": "React Native implementation of WebGPU using Dawn.",
           "children": [],
@@ -255,8 +297,8 @@
             "id": 816390466,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:34:27Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-09T16:10:55Z",
+            "open_issues": 45,
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
             "stars": 1230,
@@ -267,6 +309,31 @@
             ]
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Emdawnwebgpu",
+          "description": "Dawn-maintained WebGPU bindings for Emscripten applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new",
+            "homepage": null,
+            "id": 700471558,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-09T18:37:26Z",
+            "open_issues": 6,
+            "owner": "google",
+            "repo": "dawn",
+            "stars": 1125,
+            "topics": [
+              "dawn",
+              "emdawnwebgpu",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
         },
         {
           "node_type": "item",
@@ -281,7 +348,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T20:31:48Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "webgpu-native",
             "repo": "webgpu-headers",
             "stars": 583,
@@ -313,7 +380,7 @@
         {
           "node_type": "item",
           "title": "RedGPU",
-          "description": "JavaScript WbeGPU library, by @redcamel.",
+          "description": "JavaScript WebGPU library, by @redcamel.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +389,7 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T08:16:14Z",
+            "last_commit": "2026-09-09T05:31:11Z",
             "open_issues": 15,
             "owner": "redcamel",
             "repo": "RedGPU",
@@ -342,8 +409,31 @@
         },
         {
           "node_type": "item",
+          "title": "webgpu-utils",
+          "description": "Helpers for buffer layouts, textures, mipmaps, and bind groups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Some helpers for webgpu",
+            "homepage": "https://greggman.github.io/webgpu-utils/",
+            "id": 566085429,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-04T17:53:51Z",
+            "open_issues": 5,
+            "owner": "greggman",
+            "repo": "webgpu-utils",
+            "stars": 312,
+            "topics": [
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
+        },
+        {
+          "node_type": "item",
           "title": "WESL",
-          "description": "WGSL extensions for , , and more.",
+          "description": "Community WGSL extensions for , , and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -353,10 +443,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-22T05:54:56Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "webgpu-tools",
             "repo": "wesl-spec",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "gpu",
               "graphics",
@@ -397,8 +487,42 @@
         },
         {
           "node_type": "item",
+          "title": "RunMat",
+          "description": "GPU-accelerated numerical computing runtime for MATLAB-syntax programs, with browser execution through WebAssembly and WebGPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations.",
+            "homepage": "https://runmat.com",
+            "id": 1027423503,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-09T18:16:58Z",
+            "open_issues": 25,
+            "owner": "runmat-org",
+            "repo": "runmat",
+            "stars": 255,
+            "topics": [
+              "gpu",
+              "gpu-acceleration",
+              "gpu-computing",
+              "gpu-programming",
+              "jit-compiler",
+              "linear-algebra",
+              "mathematics",
+              "matlab",
+              "numerical-analysis",
+              "plotting",
+              "rust",
+              "scientific-computing"
+            ]
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
+        },
+        {
+          "node_type": "item",
           "title": "WebGPU .NET",
-          "description": ".NET bindings, built on top of wgpu.",
+          "description": "Browser-focused .NET bindings for the Emscripten WebGPU API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -427,7 +551,7 @@
         {
           "node_type": "item",
           "title": "WebRTX",
-          "description": "WebGPU Ray Tracing Extension.",
+          "description": "Experimental ray-tracing layer implemented with WebGPU compute shaders.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -504,29 +628,6 @@
         },
         {
           "node_type": "item",
-          "title": "Arche Graphics",
-          "description": "WebGPU Graphics Engine.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Entity-Component Based Graphics Engine rendered by WebGPU",
-            "homepage": "https://arche.graphics/zh-hans/docs/intro/",
-            "id": 458754035,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2022-09-21T03:50:10Z",
-            "open_issues": 0,
-            "owner": "yangfengzzz",
-            "repo": "Arche.js",
-            "stars": 31,
-            "topics": [
-              "webgpu"
-            ]
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
           "title": "hwoa-rang-gpu",
           "description": "Micro WebGPU rendering & compute library.",
           "children": [],
@@ -555,7 +656,7 @@
         {
           "node_type": "item",
           "title": "Thimbleberry",
-          "description": "Reusuable WebGPU shaders and support functions.",
+          "description": "Reusable WebGPU shaders and support functions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,6 +673,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vienna WebGPU Engine",
+          "description": "Educational C++ game engine built on WebGPU, with rendering tutorials and native and browser backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 941957524,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-08-21T14:22:11Z",
+            "open_issues": 0,
+            "owner": "hlavacs",
+            "repo": "Vienna-WebGPU-Engine",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
         },
         {
           "node_type": "item",
@@ -598,12 +720,12 @@
       "title": "Libraries"
     },
     {
-      "description": "These have not been updated for a while:",
+      "description": null,
       "items": [
         {
           "node_type": "item",
           "title": "webgpu-inspector",
-          "description": "Inspection debugger for WebGpu.",
+          "description": "Inspection debugger for WebGPU.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -629,51 +751,77 @@
         },
         {
           "node_type": "item",
-          "title": "webgpu-devtools",
-          "description": "Web browser extention.",
+          "title": "wgpu-profiler",
+          "description": "GPU timing and profiling utilities for Rust applications using wgpu.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Simple profiler scopes for wgpu using timer queries",
             "homepage": null,
-            "id": 595406657,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-05-04T05:26:37Z",
-            "open_issues": 19,
-            "owner": "takahirox",
-            "repo": "webgpu-devtools",
-            "stars": 189,
-            "topics": []
+            "id": 340989725,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-31T13:10:57Z",
+            "open_issues": 11,
+            "owner": "Wumpf",
+            "repo": "wgpu-profiler",
+            "stars": 137,
+            "topics": [
+              "gpu",
+              "profiler",
+              "wgpu",
+              "wgpu-rs"
+            ]
           },
-          "first_seen": "2026-08-29T00:06:48.152Z"
+          "first_seen": "2026-09-09T18:50:34.446Z"
         },
         {
           "node_type": "item",
-          "title": "webgpu-debugger",
-          "description": "Early stage debugger.",
+          "title": "WebGPU Dev Extension",
+          "description": "Browser extension for validation diagnostics, memory tracking, and redundant-state detection.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "A browser extension to help with WebGPU debugging",
             "homepage": null,
-            "id": 552964869,
+            "id": 743664259,
             "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-01-20T14:40:53Z",
-            "open_issues": 21,
-            "owner": "webgpu",
-            "repo": "webgpu-debugger",
-            "stars": 76,
+            "license": null,
+            "last_commit": "2026-06-09T19:03:53Z",
+            "open_issues": 2,
+            "owner": "greggman",
+            "repo": "webgpu-dev-extension",
+            "stars": 49,
             "topics": []
           },
-          "first_seen": "2026-08-29T00:06:48.152Z"
+          "first_seen": "2026-09-09T18:50:34.446Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebGPUReconstruct",
+          "description": "Capture browser commands and replay them through native implementations for graphics debugging and profiling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Record WebGPU content and replay as native.",
+            "homepage": null,
+            "id": 858151638,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-24T09:04:36Z",
+            "open_issues": 1,
+            "owner": "Chainsawkitten",
+            "repo": "WebGPUReconstruct",
+            "stars": 43,
+            "topics": []
+          },
+          "first_seen": "2026-09-09T18:50:34.446Z"
         }
       ],
       "title": "Debuggers and Profilers"
     },
     {
-      "description": "Right now, demos work best on Chrome/Edge.",
+      "description": "Demo compatibility depends on browser support and the features required by each application.",
       "items": [
         {
           "node_type": "item",
@@ -687,11 +835,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:49:37Z",
-            "open_issues": 384,
+            "last_commit": "2026-09-09T16:48:15Z",
+            "open_issues": 377,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 115288,
+            "stars": 115342,
             "topics": [
               "3d",
               "augmented-reality",
@@ -711,35 +859,6 @@
         },
         {
           "node_type": "item",
-          "title": "WebLLM",
-          "description": "LLM inference engine, by CMU, University of Washington, OctoML, et al - Repository",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "High-performance In-browser LLM Inference Engine ",
-            "homepage": "https://webllm.mlc.ai",
-            "id": 627561173,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-08T00:08:51Z",
-            "open_issues": 150,
-            "owner": "mlc-ai",
-            "repo": "web-llm",
-            "stars": 19025,
-            "topics": [
-              "chatgpt",
-              "deep-learning",
-              "language-model",
-              "llm",
-              "tvm",
-              "webgpu",
-              "webml"
-            ]
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
           "title": "wgpu examples",
           "description": "Official list of examples from the wgpu library - Repository",
           "children": [],
@@ -750,11 +869,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T11:02:37Z",
-            "open_issues": 1255,
+            "last_commit": "2026-09-09T16:17:26Z",
+            "open_issues": 1258,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17960,
+            "stars": 17966,
             "topics": [
               "d3d12",
               "gpu",
@@ -771,7 +890,7 @@
         {
           "node_type": "item",
           "title": "Web Stable Diffusion",
-          "description": "An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - Repository",
+          "description": "Early browser image-generation demo using WebGPU, with source code.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,28 +931,7 @@
             "open_issues": 35,
             "owner": "webgpu",
             "repo": "webgpu-samples",
-            "stars": 2167,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dawn RT",
-          "description": "A fork of dawn with Ray tracing extensions, by Felix Maier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hardware Ray tracing extension for Chromium WebGPU",
-            "homepage": null,
-            "id": 226672048,
-            "language": "C++",
-            "license": "Apache-2.0",
-            "last_commit": "2020-09-15T08:27:22Z",
-            "open_issues": 3,
-            "owner": "maierfelix",
-            "repo": "dawn-ray-tracing",
-            "stars": 302,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -1160,7 +1258,7 @@
         {
           "node_type": "item",
           "title": "WebGPU real-time ray tracer",
-          "description": "A real-time ray tracer implementing ReSTIR algorithm - Repository",
+          "description": "A real-time ray tracer implementing the ReSTIR algorithm.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1174,72 +1272,6 @@
             "owner": "C-none",
             "repo": "Web-RTRT",
             "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wgpu-load-test",
-          "description": "A wgpu stress test, by Alexis Andre.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Examples of how different cards perform far better that others",
-            "homepage": null,
-            "id": 273381568,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2020-06-23T04:56:32Z",
-            "open_issues": 0,
-            "owner": "MacTuitui",
-            "repo": "wgpu-load-test",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
-          "title": "An online WebGPU calculator",
-          "description": "An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - Repository",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An online calculator, but you can only use it on your remote friend’s GPU",
-            "homepage": "https://laskin.live/",
-            "id": 265816640,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2020-08-02T11:51:10Z",
-            "open_issues": 0,
-            "owner": "rivi-lang",
-            "repo": "laskin.live",
-            "stars": 6,
-            "topics": [
-              "webgpu",
-              "webrtc"
-            ]
-          },
-          "first_seen": "2026-08-29T00:06:48.152Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WebGPU External Texture Test",
-          "description": "By Brandon Jones - Repository",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tests consuming external textures with WebGPU",
-            "homepage": "https://toji.github.io/webgpu-external-test/",
-            "id": 375901088,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2021-06-11T16:37:06Z",
-            "open_issues": 0,
-            "owner": "toji",
-            "repo": "webgpu-external-test",
-            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -1288,10 +1320,100 @@
         }
       ],
       "title": "Demos"
+    },
+    {
+      "description": "These resources document earlier implementations, obsolete API versions, or experimental forks. Code and setup instructions may require substantial changes for current WebGPU.\nTo the extent possible under law, Mik Bry has waived all copyright and related or neighboring rights to this work.\nContributions welcome! Read the contribution guidelines first.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dawn RT",
+          "description": "A fork of dawn with Ray tracing extensions, by Felix Maier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hardware Ray tracing extension for Chromium WebGPU",
+            "homepage": null,
+            "id": 226672048,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2020-09-15T08:27:22Z",
+            "open_issues": 3,
+            "owner": "maierfelix",
+            "repo": "dawn-ray-tracing",
+            "stars": 302,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webgpu-devtools",
+          "description": "Legacy alpha browser extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 595406657,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-05-04T05:26:37Z",
+            "open_issues": 19,
+            "owner": "takahirox",
+            "repo": "webgpu-devtools",
+            "stars": 189,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webgpu-debugger",
+          "description": "Legacy alpha debugger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 552964869,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-01-20T14:40:53Z",
+            "open_issues": 21,
+            "owner": "webgpu",
+            "repo": "webgpu-debugger",
+            "stars": 76,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wgpu-load-test",
+          "description": "A wgpu stress test, by Alexis Andre.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Examples of how different cards perform far better that others",
+            "homepage": null,
+            "id": 273381568,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2020-06-23T04:56:32Z",
+            "open_issues": 0,
+            "owner": "MacTuitui",
+            "repo": "wgpu-load-test",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:48.152Z"
+        }
+      ],
+      "title": "Historical resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:58:00.037Z",
+    "last_updated": "2026-09-09T18:50:34.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
@@ -1299,11 +1421,11 @@
       "id": 240231984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-01-21T09:09:35Z",
-      "open_issues": 23,
+      "last_commit": "2026-09-09T17:15:27Z",
+      "open_issues": 20,
       "owner": "mikbry",
       "repo": "awesome-webgpu",
-      "stars": 1970,
+      "stars": 1973,
       "topics": [
         "3d",
         "awesome",
@@ -1315,7 +1437,7 @@
         "webgpu"
       ]
     },
-    "original_repository_sha": "d0324dc7725f9e3384daad3fc1ac596769802b51",
+    "original_repository_sha": "9d99b530a83bf72b9ac0605198ed11c63a4f5de6",
     "enhanced_repository": "enhansome/enhansome-webgpu",
     "enhanced_repository_description": null,
     "title": "Awesome WebGPU with stars"
