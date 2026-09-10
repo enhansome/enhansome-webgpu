@@ -21,7 +21,7 @@
                 "open_issues": 456,
                 "owner": "gpuweb",
                 "repo": "gpuweb",
-                "stars": 5469,
+                "stars": 5473,
                 "topics": [
                   "gpgpu-computing",
                   "gpu",
@@ -59,7 +59,7 @@
             "open_issues": 456,
             "owner": "gpuweb",
             "repo": "gpuweb",
-            "stars": 5469,
+            "stars": 5473,
             "topics": [
               "gpgpu-computing",
               "gpu",
@@ -165,11 +165,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:17:26Z",
-            "open_issues": 1258,
+            "last_commit": "2026-09-10T09:56:36Z",
+            "open_issues": 1262,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17966,
+            "stars": 17977,
             "topics": [
               "d3d12",
               "gpu",
@@ -195,11 +195,11 @@
             "id": 97212490,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-09-09T18:04:58Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-10T17:41:59Z",
+            "open_issues": 132,
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10276,
+            "stars": 10280,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -216,11 +216,11 @@
             "id": 255966443,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T13:41:31Z",
-            "open_issues": 205,
+            "last_commit": "2026-09-10T11:40:12Z",
+            "open_issues": 207,
             "owner": "linebender",
             "repo": "vello",
-            "stars": 4323,
+            "stars": 4324,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -241,7 +241,7 @@
             "open_issues": 2,
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3222,
+            "stars": 3225,
             "topics": [
               "awesome-list",
               "candlestick-chart",
@@ -297,11 +297,11 @@
             "id": 816390466,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T16:10:55Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-10T13:39:24Z",
+            "open_issues": 41,
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1230,
+            "stars": 1233,
             "topics": [
               "dawn",
               "react-native",
@@ -322,11 +322,11 @@
             "id": 700471558,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T18:37:26Z",
+            "last_commit": "2026-09-10T18:34:03Z",
             "open_issues": 6,
             "owner": "google",
             "repo": "dawn",
-            "stars": 1125,
+            "stars": 1127,
             "topics": [
               "dawn",
               "emdawnwebgpu",
@@ -389,7 +389,7 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T05:31:11Z",
+            "last_commit": "2026-09-10T08:08:46Z",
             "open_issues": 15,
             "owner": "redcamel",
             "repo": "RedGPU",
@@ -423,7 +423,7 @@
             "open_issues": 5,
             "owner": "greggman",
             "repo": "webgpu-utils",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "webgpu"
             ]
@@ -497,7 +497,7 @@
             "id": 1027423503,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T18:16:58Z",
+            "last_commit": "2026-09-10T17:09:28Z",
             "open_issues": 25,
             "owner": "runmat-org",
             "repo": "runmat",
@@ -585,7 +585,7 @@
             "open_issues": 7,
             "owner": "GEngine-js",
             "repo": "GEngine",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "gpu",
               "webgl",
@@ -625,6 +625,41 @@
             ]
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Points",
+          "description": "Generative art library built with WebGPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Generative Art library made in WebGPU",
+            "homepage": "https://absulit.github.io/points/examples/",
+            "id": 407356126,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-18T21:23:22Z",
+            "open_issues": 17,
+            "owner": "Absulit",
+            "repo": "points",
+            "stars": 56,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "creative-coding",
+              "genart",
+              "generative-art",
+              "graphics-programming",
+              "javascript",
+              "meshes",
+              "particlesystem",
+              "shaders",
+              "webgl",
+              "webgpu",
+              "wgsl"
+            ]
+          },
+          "first_seen": "2026-09-10T18:40:43.428Z"
         },
         {
           "node_type": "item",
@@ -715,6 +750,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fisheye.js",
+          "description": "WebGPU compute library for fisheye image and video correction using WebCodecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A JavaScript library for correcting fisheye, or barrel distortion, in images in the browser",
+            "homepage": "https://gyeonghokim.github.io/fisheye.js/",
+            "id": 1143833451,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-02-02T16:24:59Z",
+            "open_issues": 0,
+            "owner": "GyeongHoKim",
+            "repo": "fisheye.js",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-10T18:40:43.428Z"
         }
       ],
       "title": "Libraries"
@@ -835,11 +891,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T16:48:15Z",
-            "open_issues": 377,
+            "last_commit": "2026-09-10T18:37:19Z",
+            "open_issues": 380,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 115342,
+            "stars": 115378,
             "topics": [
               "3d",
               "augmented-reality",
@@ -869,11 +925,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:17:26Z",
-            "open_issues": 1258,
+            "last_commit": "2026-09-10T09:56:36Z",
+            "open_issues": 1262,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17966,
+            "stars": 17977,
             "topics": [
               "d3d12",
               "gpu",
@@ -931,10 +987,48 @@
             "open_issues": 35,
             "owner": "webgpu",
             "repo": "webgpu-samples",
-            "stars": 2170,
+            "stars": 2171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Darkly.art",
+          "description": "Open-source photo editor with an advanced WebGPU compositor written in Rust + WebAssembly - Repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Forbidden Editor for Artists 😈",
+            "homepage": "https://darkly.art",
+            "id": 1245252911,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-10T14:56:11Z",
+            "open_issues": 6,
+            "owner": "darkly-art",
+            "repo": "darkly",
+            "stars": 320,
+            "topics": [
+              "art",
+              "art-code",
+              "design",
+              "entropy",
+              "gpu",
+              "graphic-design",
+              "graphics",
+              "image-processing",
+              "node-graph",
+              "painting",
+              "photo-editor",
+              "rust",
+              "shaders",
+              "svelte",
+              "webassembly",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-09-10T18:40:43.428Z"
         },
         {
           "node_type": "item",
@@ -1317,6 +1411,32 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DoG Studio",
+          "description": "WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Various Difference-of-Gaussians (DoG) algorithms for native Typescript, WebGL, and WebGPU ",
+            "homepage": "https://dougfenstermacher.com/dogpack/",
+            "id": 1137962267,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-01T01:38:10Z",
+            "open_issues": 0,
+            "owner": "dpfens",
+            "repo": "dogpack",
+            "stars": 0,
+            "topics": [
+              "difference-of-gaussian",
+              "graphics",
+              "webgl2",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-09-10T18:40:43.428Z"
         }
       ],
       "title": "Demos"
@@ -1413,7 +1533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:50:34.446Z",
+    "last_updated": "2026-09-10T18:40:43.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
@@ -1421,11 +1541,11 @@
       "id": 240231984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-09T17:15:27Z",
-      "open_issues": 20,
+      "last_commit": "2026-09-10T09:00:23Z",
+      "open_issues": 16,
       "owner": "mikbry",
       "repo": "awesome-webgpu",
-      "stars": 1973,
+      "stars": 1974,
       "topics": [
         "3d",
         "awesome",
@@ -1437,7 +1557,7 @@
         "webgpu"
       ]
     },
-    "original_repository_sha": "9d99b530a83bf72b9ac0605198ed11c63a4f5de6",
+    "original_repository_sha": "a51bb94d33dc26ac6753c9fb6db789cd008f36c0",
     "enhanced_repository": "enhansome/enhansome-webgpu",
     "enhanced_repository_description": null,
     "title": "Awesome WebGPU with stars"
