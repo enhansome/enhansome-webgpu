@@ -100,7 +100,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 ## Tutorials
 
 * [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) ⭐ 559 | 🐛 7 | 🌐 TypeScript | 📅 2023-06-06 - Tutorials using WGSL; the older GLSL-to-SPIR-V branch is deprecated.
-* [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) ⭐ 264 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-23 - How to build a complete rasterizer using compute shaders, by [Omar Shehata](https://github.com/OmarShehata).
+* [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) ⭐ 265 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-23 - How to build a complete rasterizer using compute shaders, by [Omar Shehata](https://github.com/OmarShehata).
 * [From 0 to glTF with WebGPU: Series](https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle/) [(repository)](https://github.com/Twinklebear/webgpu-0-to-gltf?tab=readme-ov-file) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-04 - A tutorial to create a glTF model viewer, by [Will Usher](https://github.com/Twinklebear).
 * [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) - Google codelab introducing rendering and compute with a Game of Life simulation.
 * [Get started with GPU Compute on the Web](https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute) - Tutorial on how to use WebGPU for non-graphical applications, by [François Beaufort](https://github.com/beaufortfrancois).
@@ -114,16 +114,16 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 ## Libraries
 
-* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 18,172 | 🐛 1,264 | 🌐 Rust | 📅 2026-10-01 - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
+* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 18,172 | 🐛 1,261 | 🌐 Rust | 📅 2026-10-03 - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
 * [sokol](https://github.com/floooh/sokol/) ⭐ 10,330 | 🐛 134 | 🌐 C | 📅 2026-10-02 - Simple STB-style cross-platform libraries for C and C++.
-* [Vello](https://github.com/linebender/vello) ⭐ 4,382 | 🐛 197 | 🌐 Rust | 📅 2026-10-02 - Experimental Rust 2D vector renderer using wgpu and GPU compute.
+* [Vello](https://github.com/linebender/vello) ⭐ 4,385 | 🐛 197 | 🌐 Rust | 📅 2026-10-02 - Experimental Rust 2D vector renderer using wgpu and GPU compute.
 * [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,240 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Interactive charting library using WebGPU for rendering.
 * [wgpu-native](https://github.com/gfx-rs/wgpu-native) ⭐ 1,398 | 🐛 70 | 🌐 Rust | 📅 2026-10-02 - Native C interface to the Rust wgpu implementation.
 * [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,244 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-02 - React Native implementation of WebGPU using Dawn.
 * [Emdawnwebgpu](https://github.com/google/dawn/blob/main/src/emdawnwebgpu/pkg/README.md) ⭐ 1,157 | 🐛 6 | 🌐 C++ | 📅 2026-10-02 - Dawn-maintained WebGPU bindings for Emscripten applications.
 * [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) ⭐ 588 | 🐛 51 | 🌐 C++ | 📅 2026-09-29 - C/C++ headers.
 * [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) ⭐ 514 | 🐛 13 | 🌐 C++ | 📅 2025-09-03 - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
-* [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 384 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02 - JavaScript WebGPU library, by [@redcamel](https://github.com/redcamel).
+* [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 384 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-03 - JavaScript WebGPU library, by [@redcamel](https://github.com/redcamel).
 * [webgpu-utils](https://github.com/greggman/webgpu-utils) ⭐ 318 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-04 - Helpers for buffer layouts, textures, mipmaps, and bind groups.
 * [WESL](https://github.com/webgpu-tools/wesl-spec) ⭐ 314 | 🐛 108 | 📅 2026-09-25 - Community WGSL extensions for `import`, `@if`, and more.
 * [wgsl\_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐ 296 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - A WebGPU Shading Language parser and reflection library for JavaScript.
@@ -172,8 +172,8 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 Demo compatibility depends on browser support and the features required by each application.
 
-* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 116,172 | 🐛 378 | 🌐 JavaScript | 📅 2026-10-02
-* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 18,172 | 🐛 1,264 | 🌐 Rust | 📅 2026-10-01
+* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 116,179 | 🐛 383 | 🌐 JavaScript | 📅 2026-10-02
+* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 18,172 | 🐛 1,261 | 🌐 Rust | 📅 2026-10-03
 * [Web Stable Diffusion](https://websd.mlc.ai/) - Early browser image-generation demo using WebGPU, with [source code](https://github.com/mlc-ai/web-stable-diffusion) ⭐ 3,722 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-03-12.
 * [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples) ⭐ 2,176 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-02
 * [Darkly.art](https://demo.darkly.art) - Open-source photo editor with an advanced WebGPU compositor written in Rust + WebAssembly - [Repository](https://github.com/darkly-art/darkly) ⭐ 361 | 🐛 6 | 🌐 Rust | 📅 2026-09-30
@@ -256,4 +256,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
