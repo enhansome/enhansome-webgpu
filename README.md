@@ -114,20 +114,20 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 ## Libraries
 
-* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 18,172 | 🐛 1,261 | 🌐 Rust | 📅 2026-10-03 - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
-* [sokol](https://github.com/floooh/sokol/) ⭐ 10,330 | 🐛 134 | 🌐 C | 📅 2026-10-02 - Simple STB-style cross-platform libraries for C and C++.
-* [Vello](https://github.com/linebender/vello) ⭐ 4,385 | 🐛 197 | 🌐 Rust | 📅 2026-10-02 - Experimental Rust 2D vector renderer using wgpu and GPU compute.
+* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 18,177 | 🐛 1,262 | 🌐 Rust | 📅 2026-10-03 - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
+* [sokol](https://github.com/floooh/sokol/) ⭐ 10,332 | 🐛 133 | 🌐 C | 📅 2026-10-03 - Simple STB-style cross-platform libraries for C and C++.
+* [Vello](https://github.com/linebender/vello) ⭐ 4,386 | 🐛 198 | 🌐 Rust | 📅 2026-10-02 - Experimental Rust 2D vector renderer using wgpu and GPU compute.
 * [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,240 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Interactive charting library using WebGPU for rendering.
-* [wgpu-native](https://github.com/gfx-rs/wgpu-native) ⭐ 1,398 | 🐛 70 | 🌐 Rust | 📅 2026-10-02 - Native C interface to the Rust wgpu implementation.
-* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,244 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-02 - React Native implementation of WebGPU using Dawn.
-* [Emdawnwebgpu](https://github.com/google/dawn/blob/main/src/emdawnwebgpu/pkg/README.md) ⭐ 1,157 | 🐛 6 | 🌐 C++ | 📅 2026-10-02 - Dawn-maintained WebGPU bindings for Emscripten applications.
+* [wgpu-native](https://github.com/gfx-rs/wgpu-native) ⭐ 1,399 | 🐛 70 | 🌐 Rust | 📅 2026-10-02 - Native C interface to the Rust wgpu implementation.
+* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,246 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-02 - React Native implementation of WebGPU using Dawn.
+* [Emdawnwebgpu](https://github.com/google/dawn/blob/main/src/emdawnwebgpu/pkg/README.md) ⭐ 1,157 | 🐛 6 | 🌐 C++ | 📅 2026-10-03 - Dawn-maintained WebGPU bindings for Emscripten applications.
 * [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) ⭐ 588 | 🐛 51 | 🌐 C++ | 📅 2026-09-29 - C/C++ headers.
 * [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) ⭐ 514 | 🐛 13 | 🌐 C++ | 📅 2025-09-03 - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
 * [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 384 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-03 - JavaScript WebGPU library, by [@redcamel](https://github.com/redcamel).
 * [webgpu-utils](https://github.com/greggman/webgpu-utils) ⭐ 318 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-04 - Helpers for buffer layouts, textures, mipmaps, and bind groups.
-* [WESL](https://github.com/webgpu-tools/wesl-spec) ⭐ 314 | 🐛 108 | 📅 2026-09-25 - Community WGSL extensions for `import`, `@if`, and more.
+* [WESL](https://github.com/webgpu-tools/wesl-spec) ⭐ 314 | 🐛 110 | 📅 2026-10-03 - Community WGSL extensions for `import`, `@if`, and more.
 * [wgsl\_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐ 296 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - A WebGPU Shading Language parser and reflection library for JavaScript.
-* [RunMat](https://github.com/runmat-org/runmat) ⭐ 261 | 🐛 26 | 🌐 Rust | 📅 2026-10-01 - GPU-accelerated numerical computing runtime for MATLAB-syntax programs, with browser execution through WebAssembly and WebGPU.
+* [RunMat](https://github.com/runmat-org/runmat) ⭐ 262 | 🐛 26 | 🌐 Rust | 📅 2026-10-01 - GPU-accelerated numerical computing runtime for MATLAB-syntax programs, with browser execution through WebAssembly and WebGPU.
 * [WebGPU .NET](https://github.com/EvergineTeam/WebGPU.NET) ⭐ 201 | 🐛 0 | 🌐 C# | 📅 2026-09-01 - Browser-focused .NET bindings for the Emscripten WebGPU API.
 * [WebRTX](https://github.com/codedhead/webrtx) ⭐ 167 | 🐛 3 | 🌐 Rust | 📅 2023-10-08 - Experimental ray-tracing layer implemented with WebGPU compute shaders.
 * [GEngine](https://github.com/GEngine-js/GEngine) ⭐ 148 | 🐛 7 | 🌐 JavaScript | 📅 2026-05-22 - A basic rendering engine based on WebGPU, by junwei.gu.
@@ -172,11 +172,11 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 Demo compatibility depends on browser support and the features required by each application.
 
-* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 116,179 | 🐛 383 | 🌐 JavaScript | 📅 2026-10-02
-* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 18,172 | 🐛 1,261 | 🌐 Rust | 📅 2026-10-03
+* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 116,191 | 🐛 385 | 🌐 JavaScript | 📅 2026-10-03
+* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 18,177 | 🐛 1,262 | 🌐 Rust | 📅 2026-10-03
 * [Web Stable Diffusion](https://websd.mlc.ai/) - Early browser image-generation demo using WebGPU, with [source code](https://github.com/mlc-ai/web-stable-diffusion) ⭐ 3,722 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-03-12.
 * [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples) ⭐ 2,176 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-02
-* [Darkly.art](https://demo.darkly.art) - Open-source photo editor with an advanced WebGPU compositor written in Rust + WebAssembly - [Repository](https://github.com/darkly-art/darkly) ⭐ 361 | 🐛 6 | 🌐 Rust | 📅 2026-09-30
+* [Darkly.art](https://demo.darkly.art) - Open-source photo editor with an advanced WebGPU compositor written in Rust + WebAssembly - [Repository](https://github.com/darkly-art/darkly) ⭐ 363 | 🐛 6 | 🌐 Rust | 📅 2026-09-30
 * [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-clustered-shading) ⭐ 212 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-27
 * [Online WGSL Editor](https://takahirox.github.io/online-wgsl-editor/) - By [Takahiro](https://github.com/takahirox) - [Repository](https://github.com/takahirox/online-wgsl-editor) ⭐ 181 | 🐛 7 | 🌐 JavaScript | 📅 2023-04-08
 * [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository](https://github.com/toji/spookyball) ⭐ 144 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-09
