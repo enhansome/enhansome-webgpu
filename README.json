@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "gpuweb",
                 "repo": "gpuweb",
-                "stars": 5507,
+                "stars": 5511,
                 "topics": [
                   "gpgpu-computing",
                   "gpu",
@@ -59,7 +59,7 @@
             "open_issues": 460,
             "owner": "gpuweb",
             "repo": "gpuweb",
-            "stars": 5507,
+            "stars": 5511,
             "topics": [
               "gpgpu-computing",
               "gpu",
@@ -166,10 +166,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T02:27:40Z",
-            "open_issues": 1306,
+            "open_issues": 1311,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18313,
+            "stars": 18321,
             "topics": [
               "d3d12",
               "gpu",
@@ -195,7 +195,7 @@
             "id": 97212490,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-17T14:26:45Z",
+            "last_commit": "2026-10-18T08:20:43Z",
             "open_issues": 131,
             "owner": "floooh",
             "repo": "sokol",
@@ -220,7 +220,7 @@
             "open_issues": 203,
             "owner": "linebender",
             "repo": "vello",
-            "stars": 4421,
+            "stars": 4422,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -237,8 +237,8 @@
             "id": 1136039994,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T18:45:25Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-18T15:07:17Z",
+            "open_issues": 2,
             "owner": "ChartGPU",
             "repo": "ChartGPU",
             "stars": 3253,
@@ -280,7 +280,7 @@
             "open_issues": 68,
             "owner": "gfx-rs",
             "repo": "wgpu-native",
-            "stars": 1407,
+            "stars": 1408,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -297,11 +297,11 @@
             "id": 816390466,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:02:03Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-18T15:27:16Z",
+            "open_issues": 56,
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "dawn",
               "react-native",
@@ -372,7 +372,7 @@
             "open_issues": 13,
             "owner": "eliemichel",
             "repo": "WebGPU-Cpp",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -389,7 +389,7 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T13:01:13Z",
+            "last_commit": "2026-10-18T15:31:16Z",
             "open_issues": 18,
             "owner": "redcamel",
             "repo": "RedGPU",
@@ -611,7 +611,7 @@
             "open_issues": 4,
             "owner": "Reon90",
             "repo": "redcube",
-            "stars": 114,
+            "stars": 113,
             "topics": [
               "3d-models",
               "glsl",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "hlavacs",
             "repo": "Vienna-WebGPU-Engine",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -794,7 +794,7 @@
             "open_issues": 2,
             "owner": "brendan-duncan",
             "repo": "webgpu_inspector",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "chrome-extensions",
               "developer-tools",
@@ -864,7 +864,7 @@
             "id": 858151638,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T09:08:46Z",
+            "last_commit": "2026-10-18T11:18:47Z",
             "open_issues": 1,
             "owner": "Chainsawkitten",
             "repo": "WebGPUReconstruct",
@@ -891,11 +891,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:28:33Z",
-            "open_issues": 391,
+            "last_commit": "2026-10-18T09:40:41Z",
+            "open_issues": 390,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 116539,
+            "stars": 116593,
             "topics": [
               "3d",
               "augmented-reality",
@@ -926,10 +926,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T02:27:40Z",
-            "open_issues": 1306,
+            "open_issues": 1311,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18313,
+            "stars": 18321,
             "topics": [
               "d3d12",
               "gpu",
@@ -1533,7 +1533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:55:27.965Z",
+    "last_updated": "2026-10-18T18:16:23.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
@@ -1542,10 +1542,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-10T09:00:23Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "mikbry",
       "repo": "awesome-webgpu",
-      "stars": 2004,
+      "stars": 2006,
       "topics": [
         "3d",
         "awesome",
