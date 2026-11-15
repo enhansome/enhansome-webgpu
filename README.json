@@ -165,11 +165,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T18:07:32Z",
-            "open_issues": 1320,
+            "last_commit": "2026-11-15T20:34:21Z",
+            "open_issues": 1318,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18537,
+            "stars": 18546,
             "topics": [
               "d3d12",
               "gpu",
@@ -195,11 +195,11 @@
             "id": 97212490,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-11-13T17:11:15Z",
+            "last_commit": "2026-11-15T20:01:36Z",
             "open_issues": 129,
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10433,
+            "stars": 10436,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -220,7 +220,7 @@
             "open_issues": 222,
             "owner": "linebender",
             "repo": "vello",
-            "stars": 4500,
+            "stars": 4507,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -238,7 +238,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-18T15:07:17Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ChartGPU",
             "repo": "ChartGPU",
             "stars": 3277,
@@ -277,10 +277,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T01:40:39Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "gfx-rs",
             "repo": "wgpu-native",
-            "stars": 1434,
+            "stars": 1435,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -297,11 +297,11 @@
             "id": 816390466,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T17:58:37Z",
+            "last_commit": "2026-11-15T16:37:57Z",
             "open_issues": 59,
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1278,
+            "stars": 1280,
             "topics": [
               "dawn",
               "react-native",
@@ -322,11 +322,11 @@
             "id": 700471558,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T08:47:54Z",
+            "last_commit": "2026-11-15T09:41:08Z",
             "open_issues": 11,
             "owner": "google",
             "repo": "dawn",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "dawn",
               "emdawnwebgpu",
@@ -372,7 +372,7 @@
             "open_issues": 13,
             "owner": "eliemichel",
             "repo": "WebGPU-Cpp",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -389,7 +389,7 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T10:11:48Z",
+            "last_commit": "2026-11-15T02:55:01Z",
             "open_issues": 2,
             "owner": "redcamel",
             "repo": "RedGPU",
@@ -492,7 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MATLAB-language code as written.",
+            "description": "A high-performance engine for matrix math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MATLAB-language code as written.",
             "homepage": "https://runmat.com",
             "id": 1027423503,
             "language": "Rust",
@@ -564,7 +564,7 @@
             "open_issues": 3,
             "owner": "codedhead",
             "repo": "webrtx",
-            "stars": 168,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -642,7 +642,7 @@
             "open_issues": 17,
             "owner": "Absulit",
             "repo": "points",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "3d",
               "3d-graphics",
@@ -864,7 +864,7 @@
             "id": 858151638,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T19:56:02Z",
+            "last_commit": "2026-11-15T12:11:05Z",
             "open_issues": 1,
             "owner": "Chainsawkitten",
             "repo": "WebGPUReconstruct",
@@ -891,11 +891,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:26:36Z",
-            "open_issues": 400,
+            "last_commit": "2026-11-15T20:01:17Z",
+            "open_issues": 399,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 118409,
+            "stars": 118516,
             "topics": [
               "3d",
               "augmented-reality",
@@ -925,11 +925,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T18:07:32Z",
-            "open_issues": 1320,
+            "last_commit": "2026-11-15T20:34:21Z",
+            "open_issues": 1318,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18537,
+            "stars": 18546,
             "topics": [
               "d3d12",
               "gpu",
@@ -987,7 +987,7 @@
             "open_issues": 36,
             "owner": "webgpu",
             "repo": "webgpu-samples",
-            "stars": 2198,
+            "stars": 2197,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -1533,7 +1533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:04:39.747Z",
+    "last_updated": "2026-11-15T20:34:44.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
@@ -1542,10 +1542,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-10T09:00:23Z",
-      "open_issues": 52,
+      "open_issues": 54,
       "owner": "mikbry",
       "repo": "awesome-webgpu",
-      "stars": 2022,
+      "stars": 2023,
       "topics": [
         "3d",
         "awesome",
