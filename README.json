@@ -21,7 +21,7 @@
                 "open_issues": 476,
                 "owner": "gpuweb",
                 "repo": "gpuweb",
-                "stars": 5536,
+                "stars": 5537,
                 "topics": [
                   "gpgpu-computing",
                   "gpu",
@@ -59,7 +59,7 @@
             "open_issues": 476,
             "owner": "gpuweb",
             "repo": "gpuweb",
-            "stars": 5536,
+            "stars": 5537,
             "topics": [
               "gpgpu-computing",
               "gpu",
@@ -165,11 +165,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T00:45:35Z",
-            "open_issues": 1369,
+            "last_commit": "2026-11-27T14:50:59Z",
+            "open_issues": 1375,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18650,
+            "stars": 18654,
             "topics": [
               "d3d12",
               "gpu",
@@ -199,7 +199,7 @@
             "open_issues": 126,
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 10465,
+            "stars": 10468,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:48.152Z"
@@ -216,11 +216,11 @@
             "id": 255966443,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T07:04:15Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-27T22:46:21Z",
+            "open_issues": 223,
             "owner": "linebender",
             "repo": "vello",
-            "stars": 4541,
+            "stars": 4542,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -280,7 +280,7 @@
             "open_issues": 76,
             "owner": "gfx-rs",
             "repo": "wgpu-native",
-            "stars": 1443,
+            "stars": 1444,
             "topics": []
           },
           "first_seen": "2026-09-09T18:50:34.446Z"
@@ -322,11 +322,11 @@
             "id": 700471558,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T23:40:31Z",
+            "last_commit": "2026-11-27T22:12:15Z",
             "open_issues": 13,
             "owner": "google",
             "repo": "dawn",
-            "stars": 1223,
+            "stars": 1225,
             "topics": [
               "dawn",
               "emdawnwebgpu",
@@ -389,8 +389,8 @@
             "id": 223094122,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T07:40:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-27T02:23:56Z",
+            "open_issues": 2,
             "owner": "redcamel",
             "repo": "RedGPU",
             "stars": 413,
@@ -639,7 +639,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-25T20:31:20Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Absulit",
             "repo": "points",
             "stars": 61,
@@ -891,11 +891,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T20:49:12Z",
-            "open_issues": 399,
+            "last_commit": "2026-11-27T18:50:23Z",
+            "open_issues": 402,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 119478,
+            "stars": 119565,
             "topics": [
               "3d",
               "augmented-reality",
@@ -925,11 +925,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T00:45:35Z",
-            "open_issues": 1369,
+            "last_commit": "2026-11-27T14:50:59Z",
+            "open_issues": 1375,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18650,
+            "stars": 18654,
             "topics": [
               "d3d12",
               "gpu",
@@ -1008,7 +1008,7 @@
             "open_issues": 11,
             "owner": "darkly-art",
             "repo": "darkly",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "art",
               "art-code",
@@ -1533,7 +1533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:59:42.325Z",
+    "last_updated": "2026-11-27T23:44:09.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
